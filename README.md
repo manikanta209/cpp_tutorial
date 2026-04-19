@@ -1,5 +1,5 @@
 📘 C++ Learning Repository :
-      A hands-on C++ tutorial repository covering core programming concepts, Object-Oriented Programming (OOP), and Data Structures with simple examples.
+A hands-on C++ tutorial repository covering core programming concepts, Object-Oriented Programming (OOP), and Data Structures with simple examples.
 
 🚀 Overview
 This repo is designed to :
